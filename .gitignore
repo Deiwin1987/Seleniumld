@@ -1,0 +1,9 @@
+.gradle
+.idea
+build
+gradle
+test
+chromedriver.exe
+gradlew
+gradlew.bat
+settings.gradle
